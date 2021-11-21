@@ -1,0 +1,59 @@
+.black {
+	background-color: black;
+	color: red;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+body {
+	margin: 0;
+	font-family: Brush Script MT, Brush Script Std, cursive;
+	font-size: 30px;
+}
+h1 {
+	width: 200px;
+
+}
+.xbox1 {
+	width: 200px;
+	margin: 22px;
+	border: #200cf7fd solid 2px;
+	height: 170px;
+}
+.Gallery {
+	text-align: center;
+}
+.list {
+	background-color: pink;
+}
+ol {
+	width: 250px;
+	margin: auto;
+}
+h2 {
+	text-align: center;
+}
+li {
+	text-decoration: underline;
+}
+th, td {
+	border: blue solid 2px;
+}
+table {
+	border-collapse: collapse;
+	margin: auto;
+	width: 50%;
+}
+tbody {
+	text-align: center;
+	background-color: lightblue;
+}
+th {
+	background-color: pink;
+}
+p {
+	color: blue;
+	text-align: center;
+	font-size: 40px;
+	text-transform: uppercase;
+}

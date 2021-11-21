@@ -1,0 +1,14 @@
+@media (max-width: 600px) {
+	.black {
+		display: block;
+		text-align: center;
+	}
+	h1 {
+		width: 100%;
+	}
+	.xbox1  {
+		display: block;
+		margin: 10px auto;
+	}
+}
+
